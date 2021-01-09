@@ -1,1 +1,1 @@
-<h1 align="center">DSDelivery - Sistema de Venda de Lanches</h1>
+<h1 align="center">DSDelivery - Sistema de Venda para Lanchonete</h1>
