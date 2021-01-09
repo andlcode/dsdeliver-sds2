@@ -50,9 +50,9 @@
     transform: scale(1.01);
   }
   
-  .home-image svg {
-   /* width: 100% !important; */
-  }
+  /* .home-image svg {
+   width: 100% !important; 
+  } */
   
   @media only screen and (max-width: 768px) {
     .home-container {
