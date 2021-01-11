@@ -28,8 +28,7 @@
 * PostgreSQL 
 * Heroku 
 
-<br><br>
-
+<br>
 
 ### | Frontend | 
 * HTML5 + CSS3 
