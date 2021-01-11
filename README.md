@@ -1,5 +1,5 @@
 <div align = "center">
-<h1>Semana DevSuperior 2.0</h1>
+<h1>:rocket: Semana DevSuperior 2.0 :rocket:</h1>
 <h3>DS Delivery - Sistema de Entrega  </h3>
 
 <br>
