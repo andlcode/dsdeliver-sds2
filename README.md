@@ -1,8 +1,20 @@
-<h1 align="center">Semana DevSuperior 2.0</h1>
-<h2 align="center">DS Delivery - Sistema de Entrega</h2>
+<div align = "center">
+<h1>Semana DevSuperior 2.0</h1>
+<h3>DS Delivery - Sistema de Entrega  </h3>
 
-<p align="justify">O Sistema de entrega DS Delivery foi um projeto desenvolvido de 4 a 10 de janeiro de 2021 na Semana DevSuperior 2.0 com o professor Nelio Alves e Whashigton soares.</p>
+<br>
+<br>
+
+</div>
+
+## :books: SOBRE
+<br>
+
+<p align="justify">O projeto foi desenvolvido durante a Semana DevSuperior 2.0. Consiste em uma plataforma para vendas de lanches de uma lanchonete. </p>
+
+
 
 <h1>
-<img src="media/video.gif">
+<img src="assets/video.gif">
 </h1>
+
