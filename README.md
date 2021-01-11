@@ -29,6 +29,7 @@
 * H2 database  
 * PostgreSQL 
 * Heroku 
+* Postman
 
 <br>
 
@@ -40,4 +41,3 @@
 * Typescript 
 * API Mapbox 
 * Netlify
-* Postman
