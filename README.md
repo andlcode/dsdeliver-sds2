@@ -10,7 +10,7 @@
 ## :books: SOBRE
 <br>
 
-<p align="justify">O projeto foi desenvolvido durante a Semana DevSuperior 2.0. Consiste em uma plataforma para vendas de lanches de uma lanchonete. </p>
+<p align="justify">O projeto foi desenvolvido durante a Semana DevSuperior 2.0. Consiste em uma plataforma para vendas de lanches de uma lanchonete. O ponto forte do projeto foi o trabalho em equipe com a comunidade do Discord. Durante a maratona de uma semana, tivemos a oportunidade de conviver com diferentes Devs de ecossistemas diferentes.</p>
 
 
 
@@ -28,7 +28,7 @@
 * PostgreSQL 
 * Heroku 
 
-<br><br><br>
+<br><br>
 
 
 ### | Frontend | 
