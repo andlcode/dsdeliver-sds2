@@ -15,6 +15,6 @@
 
 
 <h1>
-<img src="assets/video.gif">
+<img src="media/video.gif">
 </h1>
 
