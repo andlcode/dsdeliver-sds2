@@ -18,3 +18,24 @@
 <img src="media/video.gif">
 </h1>
 
+## :zap: TECHNOLOGIES
+
+### | Backend | 
+
+* Java 
+* Spring boot 
+* H2 database  
+* PostgreSQL 
+* Heroku 
+
+<br><br><br>
+
+
+### | Frontend | 
+* HTML5 + CSS3 
+* Javascript 
+* ReactJS 
+* React-Native 
+* Typescript 
+* API Mapbox 
+* Netlify
