@@ -34,11 +34,13 @@
 <img src="media/video.gif">
 </h1>
 
-## :zap: TECHNOLOGIES
-
-## :loudspeaker: Publicação do projeto DS Delivey
+# :loudspeaker: Publicação do projeto DS Delivey
 
 - https://andreluiz-dslivery.netlify.app
+
+
+## :zap: TECHNOLOGIES
+
 
 ### | Backend | 
 
