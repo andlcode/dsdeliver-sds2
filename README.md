@@ -3,7 +3,9 @@
 <div align = "center">
 <h1>:rocket: Semana DevSuperior 2.0 :rocket:</h1>
 <h3>DS Delivery - Sistema de Entrega  </h3>
-![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6-F7B93E?style=flat-square&logo=javascript&logoColor=black)
+  <hr>
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6-F7B93E?style=flat-square&logo=javascript&logoColor=black);
 ![Java](https://img.shields.io/badge/-Java-DE252C?style=flat-square&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/-React%20JS-262B32?style=flat-square&logo=react&logoColor=00D0F6)
 ![React Native](https://img.shields.io/badge/-React%20Native-262B32?style=flat-square&logo=react&logoColor=00D0F6)
