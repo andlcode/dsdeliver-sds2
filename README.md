@@ -13,12 +13,12 @@
 
 # :bulb: Links para Documentação
 
-1. Sobre
-2. Endeço de publicação
-3. Demonstração Web
-5. Demonstração Mobile
+1. Sobre 
+2. Demonstração Web
+3. Demonstração Mobile
+4. Endeço de publicação
 5. tecnologias utilizadas
-  a
+  
 
 
 ## :books: SOBRE
@@ -27,9 +27,6 @@
 <p align="justify">O projeto foi desenvolvido durante a Semana DevSuperior 2.0. Consiste em uma plataforma para vendas de lanches de uma lanchonete. O ponto forte do projeto foi o trabalho em equipe com a comunidade do Discord. Durante a maratona de uma semana, tivemos a oportunidade de conviver com diferentes Devs de ecossistemas diferentes.</p>
 
 
-## Publicação do projeto DS Delivey
-
-- https://andreluiz-dslivery.netlify.app
 
 # :computer: Demonstração Web
 
@@ -38,6 +35,10 @@
 </h1>
 
 ## :zap: TECHNOLOGIES
+
+## :loudspeaker: Publicação do projeto DS Delivey
+
+- https://andreluiz-dslivery.netlify.app
 
 ### | Backend | 
 
