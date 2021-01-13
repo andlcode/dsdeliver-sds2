@@ -18,9 +18,7 @@
 3. Demonstração Web
 5. Demonstração Mobile
 5. tecnologias utilizadas
-  a. Backend
-  b. Frontend Web
-  c.Frontend Mobile
+  a
 
 
 ## :books: SOBRE
