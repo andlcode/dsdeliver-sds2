@@ -11,7 +11,6 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-262B32?style=flat-square&logo=react&logoColor=00D0F6)
 ![Spring Boot](https://img.shields.io/badge/-Spring-199F3A?style=flat-square&logo=Spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
