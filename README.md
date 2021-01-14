@@ -39,7 +39,7 @@
 
 <p align="justify">O projeto foi desenvolvido durante a Semana DevSuperior 2.0. Consiste em uma plataforma para vendas de lanches de uma lanchonete. O ponto forte do projeto foi o trabalho em equipe com a comunidade do Discord. Durante a maratona de uma semana, tivemos a oportunidade de conviver com diferentes Devs de ecossistemas diferentes.</p>
 
-
+O  principal requisito funcional que foi solicitado no evento foi "o usuario pedir o produto na web, e o entregador receber o pedido via aplicativo mobile." O exemplo dessa funcionalidade no ambiente de testes esta em demonstração nesse README.md. Alẽm disso, vou disponibilizar o diagrama conceitual mais outras informações relevantes que usamos para implementar o DS Delivery.
 
 # :computer: Demonstração Web
 
