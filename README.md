@@ -93,3 +93,5 @@ yarn
 * Typescript 
 * API Mapbox 
 * Netlify
+
+Projeto criado por mim (André Luiz Duarte Cruz) com amor e :heart: Java Spring e React :heart:
