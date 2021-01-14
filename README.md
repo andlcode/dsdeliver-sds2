@@ -54,6 +54,9 @@ O  principal requisito funcional que foi solicitado no evento foi "o usuario ped
 
 # Execute no seu computador
 
+### Algum dos comandos abaixos apenas funcionará no Power Shell (Windows) ou terminal linux.
+
+
 #### Abra o terminal e execute o codigo abaixo:
 
 ```git 
