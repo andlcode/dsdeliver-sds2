@@ -62,6 +62,15 @@ git clone https://github.com/andrelDuarte/dsdeliver-sds2.git
 
 ```
 
+#### Em seguida, rode o próximo comando dentro da pasta frontend-web:
+
+```
+yarn
+
+```
+
+
+
 ## :zap: TECHNOLOGIES
 
 
