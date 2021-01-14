@@ -52,6 +52,16 @@
 - https://andreluiz-dslivery.netlify.app
 
 
+# Execute no seu computador
+
+#### Abra o terminal e execute o codigo abaixo:
+
+```git 
+
+git clone https://github.com/andrelDuarte/dsdeliver-sds2.git 
+
+```
+
 ## :zap: TECHNOLOGIES
 
 
